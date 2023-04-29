@@ -3,7 +3,7 @@
 
  "Unlock inspiration with just a click. Discover timeless wisdom with our quote generator."
 
-
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffHnuBxocF-XGOtW4siMxT-vQG1MDjCueOcVumCa7NV1zwRYUrP9NvAFSGAZacQPPSyU&usqp=CAU" alt="quote">
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
